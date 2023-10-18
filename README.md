@@ -1,1 +1,1 @@
-# Two-sample-t-test-and-paired-t-test
+# Regression and T-tests on climate data
